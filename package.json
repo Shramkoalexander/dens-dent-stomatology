@@ -22,7 +22,7 @@
       "@babel/preset-env": "^7.7.1",
       "@prettier/plugin-pug": "^1.1.5",
       "babel-loader": "^8.0.6",
-      "browser-sync": "^2.26.7",
+      "browser-sync": "^2.27.11",
       "dart-sass": "^1.25.0",
       "del": "^5.1.0",
       "eslint": "^6.1.0",
