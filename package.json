@@ -44,7 +44,7 @@
       "prettier": "1.19.1",
       "pug": "^2.0.4",
       "webpack": "^4.41.2",
-      "webpack-cli": "^3.3.10"
+      "webpack-cli": "^3.3.12"
    },
    "dependencies": {
       "@glidejs/glide": "^3.4.1",
