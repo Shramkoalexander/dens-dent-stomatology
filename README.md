@@ -1,36 +1,31 @@
 ## Den's Dent stomatology
 
-### Сайт проекта:
+### Project Website:
 https://densdent-bf863.firebaseapp.com/
 
-
-### Используемые технологии:
-
+### Technologies Used:
 - HTML / CSS (SCSS) / JS
-- Pug (для верстки)
+- Pug (for templating)
 - Gulp / Webpack, Babel
 - Yandex API
 - Prettier + ESlint
 - Git
 
+### Project Overview:
+This simple project serves as the homepage for a dental clinic. It's a static site featuring a responsive and adaptive design. The website includes a callback modal window and a form with basic validation.
 
-### Краткое описание проекта:
+### Skills Demonstrated:
 
-Этот простой проект представляет из себя главную страницу сайта стоматологии. Это статический сайт, с responsive, adaptive дизайном. На сайте есть callback модальное окно, а также форма с простой валидацией.
+- **Templating and Layout:** Proficiency in working with markup, specifically using the Pug templating engine to create a flexible website layout with reusable components.
 
+- **Responsive and Adaptive Design:** Employed SCSS not just for nested selectors, but also for mixins and functions, while creating a custom grid layout. Applied the BEM methodology for CSS class naming and utilized responsive image techniques.
 
-### На примере данного проекта я продемонстрировал следующие навыки:
+- **Pure JavaScript:** Demonstrated the ability to work with vanilla JavaScript using modern language syntax, without relying on any frameworks.
 
-- Знание и умение работать с версткой. Для верстки использовал шаблонизатор Pug, чтобы создать более гибкий layout сайта, с возможностью переиспользовать отдельные компоненты
+- **API Integration:** Integrated the Yandex API to include a contact section featuring a map that indicates the company's office locations, and added extra logic to enhance user experience.
 
-- Создание отзывчивого адаптивного дизайна. Использовал SCSS не только для вложенных селекторов, но также создал миксины, функции, создал кастомную сетку. Именовал css классы по методу BEM. Применил технологию responsive images
+- **Build Tools:** Utilized Gulp in combination with Webpack for project bundling, and Babel for transpiling, including polyfills for better older browser support.
 
-- Умение работать с чистым JS, используя современный синтаксис языка, без применения фреймворков
+- **Code Consistency:** Applied Prettier and ESLint for consistent and formatted code.
 
-- Работа с Yandex API для создания секции контактов с картой расположения офисов компании, применил дополнительную логику, чтобы улучшить User Experience
-
-- Для сборки проекта использовал Gulp в сочетании с Webpack, использовал Babel для транспиляции, полифилов для более хорошей поддержки старых браузеров
-
-- Для форматирования и более консистентного кода использовал Prettier в сочетании с ESlint
-
-- Deployment сайта делал с помощью хостинга firebase
+- **Deployment:** The site was deployed using Firebase hosting.
