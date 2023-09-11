@@ -16,11 +16,11 @@ This simple project serves as the homepage for a dental clinic. It's a static si
 
 ### Skills Demonstrated:
 
+- **Pure JavaScript:** Demonstrated the ability to work with vanilla JavaScript using modern language syntax, without relying on any frameworks.
+
 - **Templating and Layout:** Proficiency in working with markup, specifically using the Pug templating engine to create a flexible website layout with reusable components.
 
 - **Responsive and Adaptive Design:** Employed SCSS not just for nested selectors, but also for mixins and functions, while creating a custom grid layout. Applied the BEM methodology for CSS class naming and utilized responsive image techniques.
-
-- **Pure JavaScript:** Demonstrated the ability to work with vanilla JavaScript using modern language syntax, without relying on any frameworks.
 
 - **API Integration:** Integrated the Yandex API to include a contact section featuring a map that indicates the company's office locations, and added extra logic to enhance user experience.
 
